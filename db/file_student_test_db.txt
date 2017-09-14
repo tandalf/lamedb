@@ -1,0 +1,8 @@
+Firstname,   Lastname,    Age,     remark,      rank
+Tuwase, Ty, 12,    very stupid boy, 8
+Caleb, Ortserga, 10, very very stupid boy, 6
+Emma, Emma, 11, very strange girl, 5
+Mark, Zue, 19,  too old to be here, 5
+Tim, Tim, 9, very quiet but savaged boy, 10
+Bante, Bonk, 12, a big baby, 4
+Oduduwa, Tuwase, 12, fat boy, 6
